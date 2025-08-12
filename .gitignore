@@ -1,0 +1,71 @@
+# Build results
+bin/
+obj/
+
+# Tutorial
+build-an-app-with-aspnet-core-and-angular-from-scratch/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.userprefs
+
+# Visual Studio files
+.vs/
+*.vcxproj.user
+*.vcxproj.filters
+*.ncb
+*.sdf
+*.opensdf
+*.psess
+*.vsp
+*.vspscc
+
+# Rider IDE files
+.idea/
+*.sln.iml
+
+# DotNet Core publish output
+publish/
+
+# NuGet packages
+*.nupkg
+*.snupkg
+.nuget/packages/
+
+# ReSharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# ASP.NET temporary files
+App_Data/
+App_Browsers/
+App_GlobalResources/
+App_LocalResources/
+App_Themes/
+App_WebReferences/
+
+# WebAPI / ASP.NET Core specific
+wwwroot/
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Logs
+*.log
+
+# Test result files
+TestResults/
+
+# Coverage results
+coverage/
+
+# Others
+*.cache
+*.dbmdl
+*.bak
+*.backup
+*.swp
+*.swo
